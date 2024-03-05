@@ -26,7 +26,7 @@ This repository contains the source code for a Spotify Alarm Clock, designed spe
 - Reboot your pi or restart the raspotify service.
 
 ## Usage
-- Run `spotify_alarm_clock.py` to start the application. The program displays a clock interface and allows you to set alarms. When an alarm goes off, it plays a sound through the default audio output and can also play music from Spotify on the Hifiberry device.
+- Run `spotipy_alarm_clock.py` to start the application. The program displays a clock interface and allows you to set alarms. When an alarm goes off, it plays a sound through the default audio output and can also play music from Spotify on the Hifiberry device.
 - You may need to start a playlist or song on spotify from another device before playback controls will work.
 
 ### Features

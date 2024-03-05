@@ -1,0 +1,8 @@
+{
+    "spotify_credentials": {
+        "client_id": "ENTER YOUR CLIENT ID HERE",
+        "client_secret": "ENTER YOUR CLIENT SECRET HERE",
+        "redirect_uri": "ENTER REDIRECT URI HERE",
+        "username": "ENTER YOUR USERNAME HERE"
+    }
+}

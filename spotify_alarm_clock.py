@@ -56,8 +56,8 @@ def activate_device(device_name, retry_count=5):
 auth_manager = SpotifyOAuth(client_id, client_secret, redirect_uri, scope=scope, username=username, cache_path="token_info.json")
 sp = spotipy.Spotify(auth_manager=auth_manager)
 
-# Try to activate "Pi 5"
-activate_device("Pi 5")
+# Try to activate "Pi"
+activate_device("Pi")
 
 # Variable to keep track of the last song or podcast
 last_played = None

@@ -32,7 +32,7 @@ This repository contains the source code for a Spotify Alarm Clock, designed spe
 ### Features
 - Display time with a clean round-clock interface.
 - Set alarms with an easy-to-use interface.
-- Play alarm sound through a selected audio output device.
+- Play alarm sound through your default audio output device.
 - Control Spotify playback (Play/Pause, Next, Previous) directly from the interface.
 - Display CPU usage and temperature for Raspberry Pi health monitoring.
 - Dynamic updates of the currently playing Spotify track.
